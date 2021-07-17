@@ -1,5 +1,5 @@
-# spring-crud-demo
-Aplicación java spring para gestionar notas y carpetas por medio de http, usando json como método de intercambio.
+# springboot-demo
+Aplicación springboot para gestionar notas y carpetas por medio de http, usando json como método de intercambio.
 
 Version inicial de la api de note/folder.
     Estado inicial y bien diseñado.
