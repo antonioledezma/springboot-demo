@@ -1,4 +1,3 @@
--- initial schema.
 create database if not exists data;
 use data;
 
